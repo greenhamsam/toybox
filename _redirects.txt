@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://brave-borg-b6bdbc.netlify.com/* http://toybox.network/:splat 301!
